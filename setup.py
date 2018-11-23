@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="snifftools",
-    version="0.0.1",
+    version="0.0.3",
     author="Lewis sniff122 Foster",
     author_email="sniff122@sniff122.ga",
     description="A small and simple library for simple python tasks",
